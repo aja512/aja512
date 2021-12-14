@@ -10,12 +10,11 @@ I have completed graduation and I am currently dabbling on real-world projects.
 |||
 |<a href="https://github.com/aja512" rel="some text">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>|[aja512](https://github.com/aja512)|
 |||
-|<a href="">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)||
+|<a href="https://www.linkedin.com/in/amandajudyandrade/" rel="some text">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)|[Click Here](https://www.linkedin.com/in/amandajudyandrade/)|
 ---
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=aja512&show_icons=true&theme=dark&custom_title=Amanda%27s%20GitHub%20Stats&count_private=true&bg_color=#000000&hide_border=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aja512&repo=My-All-Certifications&theme=chartreuse-dark)](https://github.com/aja512/My-All-Certifications)
 
 ---
 <!--
