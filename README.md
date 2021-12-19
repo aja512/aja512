@@ -16,10 +16,11 @@ I have completed graduation and I am currently dabbling on real-world projects.
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=aja512&show_icons=true&theme=dark&custom_title=Amanda%27s%20GitHub%20Stats&count_private=true&bg_color=#000000&hide_border=true)
   
 ----
-<a href="https://github.com/aja512">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&theme=chartreuse-dark&show_icons=true" />
-</a>
-
+![](https://komarev.com/ghpvc/?username=aja512&color=brightgreen)
+  
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&theme=chartreuse-dark&layout=compact)
+  
+![aja512](https://github-readme-streak-stats.herokuapp.com/?user=aja512)
 ---
 <!--
 **aja512/aja512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
