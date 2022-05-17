@@ -8,8 +8,6 @@ I have completed graduation and I am currently dabbling on real-world projects.
 |||
 |<a href="https://www.instagram.com/yoakeumaretetashojo/" rel="some text">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>|[Click the link](https://www.instagram.com/yoakeumaretetashojo/)|
 |||
-|<a href="https://github.com/aja512" rel="some text">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>|[aja512](https://github.com/aja512)|
-|||
 |<a href="https://www.linkedin.com/in/amandajudyandrade/" rel="some text">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)|[Click Here](https://www.linkedin.com/in/amandajudyandrade/)|
 ---
 
