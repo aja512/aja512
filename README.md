@@ -12,7 +12,8 @@ I have completed graduation and I am currently dabbling on real-world projects.
 |||
 |<a href="https://leetcode.com/aja512/" rel="some text">![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)|[Click Here](https://leetcode.com/aja512/)|
 |||
-|<a href="https://www.kaggle.com/amandajudyandrade" rel="some text">![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)|[Click Here]([https://leetcode.com/aja512/](https://www.kaggle.com/amandajudyandrade))|  
+|<a href="https://www.kaggle.com/amandajudyandrade" rel="some text">![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)|[Click Here](https://www.kaggle.com/amandajudyandrade)|  
+|||  
 ---
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=aja512&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)
