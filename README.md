@@ -1,6 +1,13 @@
 # Hi there 👋 I am Amanda Judy Andrade!!! 🇮🇳
 ---
 # About Me 🖥️ 👩‍💻
+- 🔭 I’m a Software Engineer from San Francisco Bay Area, USA. Currently a CSE graduate student.
+<!-- - 🌱 I’m currently learning ... -->
+- 👯 🤔 I’m looking for internship and Full Time opportunities in Software Engineering/ Data Science/ Data Analyst Jobs.
+<!-- - 💬 Ask me about ... -->
+- 📫 How to reach me: aandrade2@scu.edu
+
+
 I have completed graduation and I am currently dabbling on real-world projects. 
 |||
 | :-------------: | :-------------: |
@@ -16,6 +23,32 @@ I have completed graduation and I am currently dabbling on real-world projects.
 |||  
 ---
 
+ # Technology Stack
+<table>
+ <body>
+  <tr>
+   <td style="text-align:center">
+    <img src="https://img.icons8.com/color/48/000000/swift.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="30" height="30"/>
+    <img src="https://user-images.githubusercontent.com/42480995/201433828-72482f32-1a62-46fd-98ab-3bbb65673e90.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35" height="35"/> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
+    <img src="https://img.icons8.com/color/48/000000/r.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35" height="35"/>
+    <img src="https://user-images.githubusercontent.com/42480995/201433380-cdcc7682-0110-4e94-b203-236af784647f.png" width="35" height="35"/>
+     
+   </td>
+  </tr>
+ </body>
+</table>
+
+  
+---
+# GitHub Stats
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=aja512&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)
   
 ----
@@ -23,7 +56,6 @@ I have completed graduation and I am currently dabbling on real-world projects.
   
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&theme=chartreuse-dark&layout=compact)
 
-  
 ![aja512](https://github-readme-streak-stats.herokuapp.com/?user=aja512)
 ---
 <!--
