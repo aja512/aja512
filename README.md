@@ -4,11 +4,11 @@
 - 🔭 I’m a Software Engineer from San Francisco Bay Area, USA. Currently a CSE graduate student.
 <!-- - 🌱 I’m currently learning ... -->
 - 👯 🤔 I’m looking for internship and Full Time opportunities in Software Engineering/ Data Science/ Data Analyst Jobs.
+- 👩‍💻 I am currently dabbling on real-world projects. 
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: aandrade2@scu.edu
 
-
-I have completed graduation and I am currently dabbling on real-world projects. 
+ 
 |||
 | :-------------: | :-------------: |
 |<a href="https://www.youtube.com/channel/UC3qsYHRFbWeDOcbbIdbM5Nw" rel="some text">![](https://github.com/Kalpesh14m/README-Templates/blob/main/Icons/youtube.svg)</a>| [Amanda Judy Andrade](https://www.youtube.com/channel/UC3qsYHRFbWeDOcbbIdbM5Nw)|
