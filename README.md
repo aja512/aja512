@@ -1,4 +1,4 @@
-# Hi there 👋 I am Amanda Judy Andrade!!! 🇮🇳
+# Greetings! 👋 I'm Amanda Judy Andrade!!! 
 ---
 # About Me 🖥️ 👩‍💻
 - 🔭 I’m a Software Engineer from San Francisco Bay Area, USA. Currently a CSE graduate student.
@@ -8,24 +8,27 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: aandrade2@scu.edu
 
- 
-|||
-| :-------------: | :-------------: |
-|<a href="https://www.youtube.com/channel/UC3qsYHRFbWeDOcbbIdbM5Nw" rel="some text">![](https://github.com/Kalpesh14m/README-Templates/blob/main/Icons/youtube.svg)</a>| [Amanda Judy Andrade](https://www.youtube.com/channel/UC3qsYHRFbWeDOcbbIdbM5Nw)|
-|||
-|<a href="https://www.instagram.com/yoakeumaretetashojo/" rel="some text">![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>|[Click the link](https://www.instagram.com/yoakeumaretetashojo/)|
-|||
-|<a href="https://www.linkedin.com/in/amandajudyandrade/" rel="some text">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)|[Click Here](https://www.linkedin.com/in/amandajudyandrade/)|
-|||
-|<a href="https://leetcode.com/aja512/" rel="some text">![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)|[Click Here](https://leetcode.com/aja512/)|
-|||
-|<a href="https://www.hackerrank.com/aiko999" rel="some text">![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)|[Click Here](https://www.hackerrank.com/aiko999)|
-|||
-|<a href="https://www.kaggle.com/amandajudyandrade" rel="some text">![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)|[Click Here](https://www.kaggle.com/amandajudyandrade)|  
-|||  
+---
+# Get to Know Me:
+<table>
+ <body>
+  <tr>
+   <td style="text-align:center">
+    <a href="https://www.youtube.com/channel/UC3qsYHRFbWeDOcbbIdbM5Nw" rel="some text"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+    <a href="https://www.instagram.com/yoakeumaretetashojo/" rel="some text"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/amandajudyandrade/" rel="some text"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://leetcode.com/aja512/" rel="some text"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+    <a href="https://www.hackerrank.com/aiko999" rel="some text"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+    <a href="https://www.kaggle.com/amandajudyandrade" rel="some text"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+   </td>
+  </tr>
+ </body>
+</table>
+
 ---
 
- # Technology Stack
+# Technology Stack
+ 
 <table>
  <body>
   <tr>
