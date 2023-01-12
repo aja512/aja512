@@ -3,7 +3,7 @@
 # About Me 🖥️ 👩‍💻
 - 🔭 I’m a Software Engineer from San Francisco Bay Area, USA. Currently a CSE graduate student.
 <!-- - 🌱 I’m currently learning ... -->
-- 👯 🤔 I’m looking for internship and Full Time opportunities in Software Engineering/ Data Science/ Data Analyst Jobs.
+- 👯 🤔 I’m looking for internship and Full Time opportunities in Software Engineering/ Data Science/ Data Analyst/ Data Engineering.
 - 👩‍💻 I am currently dabbling on real-world projects. 
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: aandrade2@scu.edu
