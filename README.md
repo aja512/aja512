@@ -53,15 +53,22 @@
 
   
 ---
-# GitHub Stats
+
+# &#x1f4c8; GitHub Stats
+
+<a href="http://www.github.com/aja512"><img src="https://github-readme-stats.vercel.app/api?username=aja512&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AJA's GitHub stats" /></a>
+
+<a href="http://www.github.com/aja512"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aja512&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/aja512" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!-- ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/apiusername=aja512&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)
    -->
-----
+
 ![](https://komarev.com/ghpvc/?username=aja512&color=brightgreen)
   
 <!-- ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&theme=chartreuse-dark&layout=compact) -->
 
-![aja512](https://github-readme-streak-stats.herokuapp.com/?user=aja512)
+<!-- ![aja512](https://github-readme-streak-stats.herokuapp.com/?user=aja512) -->
 ---
 <!--
 **aja512/aja512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
