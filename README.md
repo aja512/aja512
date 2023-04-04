@@ -43,7 +43,7 @@
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="35" height="35"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
     <img src="https://img.icons8.com/color/48/000000/r.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="35" height="35"/>
+    <img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="35" height="35"/>
     <img src="https://user-images.githubusercontent.com/42480995/201433380-cdcc7682-0110-4e94-b203-236af784647f.png" width="35" height="35"/>
      
    </td>
