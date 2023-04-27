@@ -1,86 +1,564 @@
-# Greetings! 👋 I'm Amanda Judy Andrade!!! 
----
-# About Me 🖥️ 👩‍💻
-- 🔭 I’m a Software Engineer from San Francisco Bay Area, USA. Currently a CSE graduate student.
-<!-- - 🌱 I’m currently learning ... -->
-- 👯 🤔 I’m looking for internship and Full Time opportunities in Software Engineering/ Data Science/ Data Analyst/ Data Engineering.
-- 👩‍💻 I am currently dabbling on real-world projects. 
-<!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: aandrade2@scu.edu
+<!DOCTYPE html>
+<html lang="en">
 
----
-# Get to Know Me:
-<table>
- <body>
-  <tr>
-   <td style="text-align:center">
-    <a href="https://www.youtube.com/channel/UC3qsYHRFbWeDOcbbIdbM5Nw" rel="some text"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://www.instagram.com/yoakeumaretetashojo/" rel="some text"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/amandajudyandrade/" rel="some text"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://leetcode.com/aja512/" rel="some text"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-    <a href="https://www.hackerrank.com/aiko999" rel="some text"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-    <a href="https://www.kaggle.com/amandajudyandrade" rel="some text"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
-   </td>
-  </tr>
- </body>
-</table>
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
----
+  <title>AJA</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  <link rel="icon" href="assets/img/CATIVANTÉ.png">
 
-# Technology Stack
- 
-<table>
- <body>
-  <tr>
-   <td style="text-align:center">
-    <img src="https://img.icons8.com/color/48/000000/swift.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="30" height="30"/>
-    <img src="https://user-images.githubusercontent.com/42480995/201433828-72482f32-1a62-46fd-98ab-3bbb65673e90.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" width="35" height="35"/> 
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" width="35" height="35"/> 
-    <img src="https://img.icons8.com/color/48/000000/r.png" width="35" height="35"/>
-    <img src="https://img.icons8.com/fluency/48/000000/flutter.png" width="35" height="35"/>
-    <img src="https://user-images.githubusercontent.com/42480995/201433380-cdcc7682-0110-4e94-b203-236af784647f.png" width="35" height="35"/>
-     
-   </td>
-  </tr>
- </body>
-</table>
+  <!-- Favicons -->
+  <link rel="icon" href="assets/img/CATIVANTÉ.png">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
 
-  
----
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
-# &#x1f4c8; GitHub Stats
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
-<a href="http://www.github.com/aja512"><img src="https://github-readme-stats.vercel.app/api?username=aja512&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AJA's GitHub stats" /></a>
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
 
-<a href="http://www.github.com/aja512"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aja512&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <!-- =======================================================
+  * Template Name: iPortfolio - v3.6.0
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
 
-<a href="https://github.com/aja512" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<!-- ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/apiusername=aja512&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)
-   -->
+<body>
 
-![](https://komarev.com/ghpvc/?username=aja512&color=brightgreen)
-  
-<!-- ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&theme=chartreuse-dark&layout=compact) -->
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
-<!-- ![aja512](https://github-readme-streak-stats.herokuapp.com/?user=aja512) -->
----
-<!--
-**aja512/aja512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
 
-Here are some ideas to get you started:
+      <div class="profile">
+        <img src="assets/img/AJA.jpg" alt="Profile Image" class="img-fluid rounded-circle">
+        <h1 class="text-light" text-align="center"><a href="index.html">Amanda Judy Andrade</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://bit.ly/3fZ72zW" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://bit.ly/3CwsoQF" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://bit.ly/3oBEPFS" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://bit.ly/3x07Luz" class="github"><i class="bx bxl-github"></i></a>
+          <a href="https://bit.ly/3Dwkjgc" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        </div>
+      </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projects</span></a></li>
+          <li><a href="#nonscholastic" class="nav-link scrollto"><i class="bx bx-medal"></i> <span>Nonscholastic</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>Amanda Judy Andrade</h1>
+      <p>I'm  <span class="typed" data-typed-items="a CS Student, a Developer, Looking for Internship and Full-Time Opportunities"></span></p>
+    </div>
+  </section>
+  <!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>
+            Engineering graduate who is intrigued by data. Willing to work in a professional environment and adapt the skills acquired through experience.          
+          </p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="assets/img/AJA.jpg" class="img-fluid" alt="Profile">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>AI Enthusiast, Software Engineer &amp; Front-End Developer.</h3>
+            <p class="fst-italic">
+              I enjoy working with data and learning various methods through which we can leverage data. Passionate about determining insights and super interested in data science &amp; analytics.
+            </p>
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <!-- <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>5 December 1999</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.cativante.github.io</span></li> -->
+                  <!-- <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li> -->
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>San Francisco Bay Area</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Major:</strong> <span>Computer Science and Engineering</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                  <!-- <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li> -->
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master of Science</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>aandrade2@scu.edu</span></li>
+                  <!-- <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li> -->
+                </ul>
+              </div>
+            </div>
+            <p>
+              I'm passionate about acquiring insights from data, a good communicator who can transmute business requirements to technical requirements. My pursuits lie in Data Analytics, Machine Learning, Mobile and Front-End Development and User Designs.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Facts Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Skills</h2>
+          <p>
+            These are the languages and skills acquired so far.
+          </p>
+          <br>
+          <div class="row skills-content">
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://www.python.org/static/community_logos/python-powered-h-140x182.png" height="144dp" width="144dp" alt="Python">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://www.logo.wine/a/logo/R_(programming_language)/R_(programming_language)-Logo.wine.svg" height="144dp" width="144dp" alt="R">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://brandlogos.net/wp-content/uploads/2021/12/go_language-brandlogo.net_.png" height="144dp" width="144dp" alt="Go">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://brandlogos.net/wp-content/uploads/2012/03/mysql-vector1.jpg" height="144dp" width="144dp" alt="SQL">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="144dp" width="144dp" alt="C Programming Language">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://icon-library.com/images/html5-icon-png/html5-icon-png-1.jpg" height="144dp" width="200dp" alt="Web Technologies">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png" height="144dp" width="144dp" alt="BootstrapMade">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://brandlogos.net/wp-content/uploads/2021/11/php-logo.png" height="144dp" width="144dp" alt="PHP">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://img.icons8.com/fluency/48/000000/flutter.png" height="144dp" width="144dp" alt="Flutter">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://img.icons8.com/color/48/000000/swift.png" height="144dp" width="144dp" alt="Swift">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://img.icons8.com/color/48/000000/react-native.png" height="144dp" width="144dp" alt="React.Js">
+            </div>
+            <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+              <img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="144dp" width="144dp" alt="TensorFlow">
+            </div>
+          </div>
+        </div>
+        <!-- <div class="row no-gutters">
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+            <div class="count-box">
+              <i class="bi bi-emoji-smile"></i>
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Happy Clients</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="count-box">
+              <i class="bi bi-journal-richtext"></i>
+              <span data-purecounter-start="0" data-purecounter-end="22" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Projects</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="count-box">
+              <i class="bi bi-headset"></i>
+              <span data-purecounter-start="0" data-purecounter-end="50" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hours Of Support</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
+            <div class="count-box">
+              <i class="bi bi-people"></i>
+              <span data-purecounter-start="0" data-purecounter-end="2" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hard Workers</strong></p>
+            </div>
+          </div>
+
+        </div> -->
+
+      </div>
+    </section>
+    <!-- End Facts Section -->
+
+    <!-- ======= Skills Section ======= -->
+    <!-- <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Skills</h2>
+          <p>
+            List of skills that I have acquired during the course of my undergraduate years.
+          </p>
+        </div>
+
+        <div class="row skills-content">
+
+          <div class="col-lg-6" data-aos="fade-up">
+
+            <div class="progress">
+              <span class="skill">HTML <i class="val">100%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">CSS <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+            <div class="progress">
+              <span class="skill">Go <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">PHP <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Data Science <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Python 3 <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Machine Learning <i class="val">94%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="94" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Skills Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+          <p>
+          </p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title">Sumary</h3>
+            <div class="resume-item pb-0">
+              <h4>Amanda Judy Andrade</h4>
+              <p>
+                <em>
+                  Innovative and deadline-driven Software Engineer with 3+ years of experience designing and developing user-centered products/services from initial concept to final, polished deliverable.
+                </em>
+              </p>
+              <ul>
+                <li>San Francisco Bay Area</li>
+                <li>aandrade2@scu.edu</li>
+              </ul>
+            </div>
+
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Master of Science - Computer Science and Engineering</h4>
+              <h5>2022 - Present</h5>
+              <p><em>Santa Clara University</em></p>
+              <p>
+                <ul>
+                  <li><b>Relevant Courses: </b> Algorithms, Operating Systems, Product Management</li>
+                </ul>
+              </p>
+            </div>
+            <div class="resume-item">
+              <h4>Bachelor of Engineering - Computer Science (Information Technology)</h4>
+              <h5>GPA: 3.8 / 4.0</h5>
+              <h5>2017 - 2021</h5>
+              <p><em>University of Mumbai, Mumbai, Maharashtra</em></p>
+              <p>
+                Graduated with honours.
+                <ul>
+                  <li>Bagged 1st prize in a literature competition in DBIT.</li>
+                  <li>Overall 6th Rank in the whole batch.</li>
+                  <li>Completed 2 Virtual Internships in top reputed MNCs.</li>
+                </ul>
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>Machine Learning Engineer Intern</h4>
+              <h5>May 2022 - July 2022</h5>
+              <p><em>Mumbai, India</em></p>
+              <ul>
+                <li><b>Skillset: </b>Machine Learning, Python 3, Problem Solving, Project Management, Business</li>
+                <li>Formulated and implemented machine learning models to drive business results, resulting in a 112% increase in usage by company.</li>
+                <li>Resolved efficiently project-related queries and issues, ensuring alignment with organizational standards and leading to a 120% increase in productivity</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Data Science and Business Analytics Intern</h4>
+              <h5>January 2022 - February 2022</h5>
+              <p><em>Mumbai, India</em></p>
+              <ul>
+                <li><b>Skillset: </b>Python 3, Scikit-Learn, OpenCV, Pandas, PowerBI</li>
+                <li>Led development, optimization, and implementation of data science models, resulting in improved results and increased 90.89% efficiency. </li>
+                <li>Utilized advanced technical skills in data analysis and modelling to drive project success. </li>
+                <li>Conducted assessments of over 100 peer interns, facilitating task completion and contributing to overall team success. </li>
+                <li>Demonstrated strong leadership and interpersonal skills. </li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Campus Ambassador Intern</h4>
+              <h5>May 2021 - July 2021</h5>
+              <p><em>Mumbai, India</em></p>
+              <ul>
+                <li>Worked on IMUN online conferences.</li>
+                <li>Promoted IMUN Conferences on Social Media Platforms and Campuses. </li>
+                <li>Worked on various Marketing Events.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Content Creator Intern</h4>
+              <h5>October 2020 - November 2020</h5>
+              <p><em>Kanpur, Uttar Pradesh, India</em></p>
+              <ul>
+                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
+                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Promoted clients online and increased their overall influence and revenue.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>PHP Web Developer Intern</h4>
+              <h5>May 2019 - July 2019</h5>
+              <p><em>Navi Mumbai, Maharashtra, India</em></p>
+              <ul>
+                <li>Developed an educational website (logos, brochures,infographics, presentations, and advertisements).</li>
+                <li>Managed up to 3 projects or tasks at a given time while under pressure</li>
+                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Projects</h2>
+          <p>
+            <quote>
+              "The greater the potential for reward in the value portfolio, the less risk there is." </br>
+              <cite>~ Warren Buffett</cite> 
+            </quote>
+          </p>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-app">App</li>
+              <li data-filter=".filter-others">Others</li>
+              <li data-filter=".filter-web">Web</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/vegitoicon-web.png" height="150dp" width="300dp" class="img-fluid" alt="vegito app">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/vegitoicon-web.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Vegito App"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/aja512/Android-Application-Project" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/collegewebsite.png" height="150dp" class="img-fluid" alt="College Website">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/collegewebsite.png"  data-gallery="portfolioGallery" class="portfolio-lightbox" title="College Website"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/aja512/Dummy-Website.github.io" title="College Website"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-others">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/artificial-intelligence-for-video-marketing-emotion-recognition-video-generation-and-more-2.webp" height="150dp" class="img-fluid" alt="Emotion Analysis of Students">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/artificial-intelligence-for-video-marketing-emotion-recognition-video-generation-and-more-2.webp" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Emotion Analysis of Students"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/aja512/Emotion-Analysis-of-Students-using-VGG-16" title="Emotion Analysis of Students"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/demohosp.png" height="150dp" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/demohosp.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="College Website"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/aja512/Hospital-LMS" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-others">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/BERT.png" height="150dp" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/BERT.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Fine Tune BERT for Text Classification with TensorFlow"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/aja512/Fine-Tune-BERT-for-Text-Classification-with-TensorFlow" title="Fine Tune BERT for Text Classification with TensorFlow"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-others">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/blog-2.jpeg" height="150dp" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/blog-2.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Transfer Learning for NLP with TensorFlow-Hub"><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/aja512/Transfer-Learning-for-NLP-with-TensorFlow-Hub" title="Transfer Learning for NLP with TensorFlow-Hub"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End Portfolio Section -->
+    <!-- ======= Portfolio Section ======= -->
+    <section id="nonscholastic" class="nonscholastic section-bg">
+      <div class="container">
+        <div class="section-title">
+          <h2>Nonscholastic</h2>
+          <p>
+            
+          </p>
+        </div>
+        <div class="row" data-aos="fade-up">
+          <div class="col-lg-12" data-aos="fade-up">
+            <ul>
+              <li>Involved in multiple cultural activities held at school and junior college level.</li>
+              <li>Volunteered at Civic Movement for Civic Awareness at School Level.</li>
+              <li>Volunteered as a Campus Ambassador in International Model United Nations Association at College Level.</li>
+              <li>Participated in Cadenza Kantori at College Level.</li>
+              <li>Participated in Australian National Chemistry Quiz, Warli Painting Workshop, Colosseum Workshops at College Level.</li>
+              <li>Computer Society of India Member 2017-2019.</li>
+              <!-- <li></li> -->
+            </ul>
+          </div>
+        </div>
+        
+      </div>
+    </section> 
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Amanda Judy Andrade</span></strong>
+      </div>
+      <!-- <div class="credits">
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div> -->
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
