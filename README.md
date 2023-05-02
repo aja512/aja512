@@ -62,7 +62,7 @@ I am passionate software developer with experience in Machine Learning and Artif
 ## GitHub Stats:
 [![Profile statistics card](https://github-readme-stats.vercel.app/api?username=aja512&hide=issues,contribs&show_icons=true&theme=ayu-mirage)](https://github.com/aja512)
 
-[![Top languages statistics card](https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&hide=assembly,c,cmake,emacs%20lisp,glsl,lex,m,Makefile,matlab,objective-c,openedge%20abl,perl,racket,ruby,shell,tsql,vhdl,yacc&langs_count=10&layout=compact&theme=ayu-mirage)](https://github.com/aja512)
+[![Top languages statistics card](https://github-readme-stats.vercel.app/api/top-langs/?username=aja512&hide=assembly,cmake,emacs%20lisp,glsl,lex,m,Makefile,matlab,objective-c,openedge%20abl,perl,racket,ruby,shell,tsql,vhdl,yacc&langs_count=20&layout=compact&theme=ayu-mirage)](https://github.com/aja512)
 
 
 
