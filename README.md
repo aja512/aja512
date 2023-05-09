@@ -23,7 +23,7 @@ I am passionate software developer with experience in Machine Learning and Artif
      <a href="https://www.hackerrank.com/aiko999" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
      <a href="https://www.hackerearth.com/@amandajudy" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/></a>
      <a href="https://www.kaggle.com/amandajudyandrade" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-     <a href="https://leetcode.com/aja512/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+     <a href="https://leetcode.com/aja512777/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
      <a href="https://www.youtube.com/@minimalistasimples" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
    </td>
   </tr>
