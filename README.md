@@ -7,7 +7,7 @@ I am passionate software developer with experience in Machine Learning and Artif
 ----
 <p align="center">
   <br><br>
-  <img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" width="720" height="480" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IJbLKGRl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lvd7833iaybplrnrtttc.png" width="720" height="480" />
   <br><br>
 </p>
 
