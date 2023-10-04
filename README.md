@@ -2,7 +2,9 @@
 
 👋 Hi, I am Amanda.
 
-I am passionate software developer with experience in Machine Learning and Artificial Intelligence.
+I am a passionate software developer with experience in Machine Learning and Artificial Intelligence.
+
+I am currently in the progress of upgrading myself. Hang in there !!!
 
 ----
 <p align="center">
